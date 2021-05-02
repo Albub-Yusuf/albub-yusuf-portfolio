@@ -1,0 +1,8 @@
+.sticky-top{
+    background-color: #fff;
+    position: sticky;
+}
+
+.nav-bar .navbar-expand-lg .navbar-light .sticky-top{
+    position: fixed;
+}
