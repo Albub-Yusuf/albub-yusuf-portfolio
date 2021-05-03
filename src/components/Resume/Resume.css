@@ -10,4 +10,5 @@
 .skill-card{
     margin:5px; width: 120px; height: 45px; border: 1px solid #ced4da; border-radius: 5px; padding: 10px; box-shadow: 5px 5px 10px #e2edff;
     text-align: center;
+    margin: 5px auto;
 }

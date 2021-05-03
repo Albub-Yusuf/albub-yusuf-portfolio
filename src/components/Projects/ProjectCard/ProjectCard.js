@@ -4,8 +4,8 @@ import project from '../../../img/carfixer.png';
 const ProjectCard = ({project}) => {
    
     return (
-        <div className="col-md-4 col-sm-auto mb-3">
-            <div className="card" style={{width:'24rem'}}>
+        <div className="col-md-4-auto col-sm-auto mb-3">
+            <div className="card" style={{width:'18rem',margin:'0 auto'}}>
                 <img src={project.image} alt="car fixer" className="card-img-top"/>
                     <div className="card-body">
                         <p className="card-text">

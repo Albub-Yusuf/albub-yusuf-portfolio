@@ -60,7 +60,7 @@ const Projects = () => {
                     </div>
                 </div>
                 <div className="container">
-                    <div data-aos="zoom-out-up" className="row d-flex justify-content-center text-center" style={{overflow:'hidden'}}>
+                    <div data-aos="fade" className="row d-flex justify-content-center text-center" style={{overflow:'hidden'}}>
                         {
                             projects.map(project => <ProjectCard key={project.id} project={project}></ProjectCard>)
                         }

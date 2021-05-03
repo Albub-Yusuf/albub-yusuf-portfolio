@@ -21,17 +21,17 @@ const Resume = () => {
 
                     <div className="row justify-content-center">
                         <div className="col-md-10">
-                            <div className="resume-container" style={{ backgroundColor: '#fff', borderRadius: '10px', minHeight: '500px', border: '1px solid #ced4da', boxShadow: '5px 5px 10px #e2edff' }}>
+                            <div data-aos="fade-up" className="resume-container" style={{ backgroundColor: '#fff', borderRadius: '10px', minHeight: '500px', border: '1px solid #ced4da', boxShadow: '5px 5px 10px #e2edff' }}>
                                 <div className="row">
-                                    <div data-aos="fade" className="col-md-12 text-center mt-5">
+                                    <div  className="col-md-12 text-center mt-5">
                                         <h1 style={{ color: 'lightslategray' }}><strong>Albub Yusuf</strong></h1>
                                         <p><small>albubyusuf@gmail.com</small> <br />
-                                            <a href="https://github.com/Albub-Yusuf" target="_blank">GitHub</a> |  <a href="https://www.linkedin.com/in/albub-yusuf" target="_blank">Linkdein</a> | <a href="#" target="_blank">Website</a>
+                                            <a href="https://github.com/Albub-Yusuf" target="_blank">GitHub</a> |  <a href="https://www.linkedin.com/in/albub-yusuf" target="_blank">Linkdein</a> | <a href="https://albub-yusuf-portfolio.web.app/" target="_blank">Website</a>
                                         </p>
 
                                     </div>
 
-                                    <div data-aos="fade-left" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
+                                    <div  className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
                                         <div className="shadow-lg p-5">
                                             <h3>Objective</h3>
                                             <p>
@@ -45,7 +45,7 @@ const Resume = () => {
 
                                     </div>
 
-                                    <div data-aos="fade-right" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
+                                    <div  className="col-md-11 col-sm-12 text-start mt-2 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
                                         <div className="shadow-lg p-5" style={{ margin: '0 auto' }}>
                                             <h3>Skills & Tools</h3>
                                             <div className="col-md-12 col-sm-12" style={{ display: 'flex', alignItems: 'center', justifyContent: 'start', flexWrap: 'wrap' }}>
@@ -108,7 +108,7 @@ const Resume = () => {
 
 
 
-                                    <div data-aos="fade" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
+                                    <div  className="col-md-11 col-sm-12 text-start mt-2 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
                                         <div className="shadow-lg p-5" style={{ margin: '0 auto' }}>
                                             <h3>Projects</h3>
                                             <p><strong>#1 Carfixer (Online based car repair shop) Period: April 2021</strong></p>
@@ -140,7 +140,7 @@ const Resume = () => {
 
 
 
-                                    <div data-aos="fade-up" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
+                                    <div  className="col-md-11 col-sm-12 text-start mt-2 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
                                         <div className="shadow-lg p-5" style={{ margin: '0 auto' }}>
                                             <h3>Training</h3>
                                             <ul>
@@ -152,7 +152,7 @@ const Resume = () => {
                                     </div>
 
 
-                                    <div data-aos="fade-down" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
+                                    <div className="col-md-11 col-sm-12 text-start mt-2 justify-content-center align-items-center" style={{ margin: '0 auto' }}>
                                         <div className="shadow-lg p-5" style={{ margin: '0 auto' }}>
                                             <h3>Education</h3>
                                             <h5>BSc. in CSE</h5>
@@ -161,7 +161,7 @@ const Resume = () => {
                                     </div>
 
 
-                                    <div data-aos="fade" className="col-md-11 col-sm-12 text-start mt-5 justify-content-center align-items-center" style={{ margin: '50px auto' }}>
+                                    <div  className="col-md-11 col-sm-12 text-start mt-2 justify-content-center align-items-center" style={{ margin: '50px auto' }}>
                                         <div className="shadow-lg p-5" style={{ margin: '0 auto' }}>
                                             <h2>Experience</h2>
                                             <h5>Web Executive (February 2020 – January 2021) <br /> <small>HoqueBrothers</small></h5>
